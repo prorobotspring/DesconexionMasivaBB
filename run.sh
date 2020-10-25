@@ -1,0 +1,1 @@
+/servintdev/wls8.1.5/jdk142_08/bin/java -classpath .:lib/weblogic.jar:lib/bssintutils.jar:lib/commons-codec-1.3.jar:lib/commons-httpclient-3.1.jar:lib/commons-jxpath-1.2.jar:lib/commons-logging-1.1.1.jar:lib/jdom.jar:lib/log4j-1.2.15.jar -jar DesconexionMasivaBB.jar
